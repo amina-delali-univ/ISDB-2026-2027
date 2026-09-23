@@ -16,7 +16,7 @@
 
 - Module Grade:
   - Exam Grade x 60% + CC Grade x 40%
-- Continuous Assessment Grade (CC Grade):
+- Continuous Assessment Grade (CA Grade):
   - The average of two tests (each test will be marked out of 15 points)
   - Attendance Grade (marked out of 5 points)
  ## References
