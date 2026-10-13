@@ -34,4 +34,4 @@ The two books are:
 
 
   ## Tutorials:
-  - [Tutorial 1](https://github.com/amina-delali-univ/ISDB-2026-2027/tree/main/tutorialso
+  - [Tutorial 1](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%201-%202026-2027.pdf)
