@@ -36,6 +36,6 @@ The two books are:
   ## Tutorials:
   - [Tutorial 1](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%201-%202026-2027.pdf)
   - [Tutorial 2](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%202-%202026-2027.pdf)
-  - [Tutorial 3](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%203-%202026-2027.pdf)
+  - [Tutorial 3](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%203-2026-2027.pdf)
 
 
