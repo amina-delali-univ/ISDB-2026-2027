@@ -33,9 +33,22 @@ The two books are:
   https://docs.google.com/forms/d/e/1FAIpQLSfZTCTM2Uqs-IqNt-sGSGAGhp_mW6b27AE5X4aIu8rzYr671Q/viewform?usp=publish-editor
 
 
+  ## Courses:
+  - [IS Course 1 - Information Systems - Definitions and Concepts](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/courses/IS%20Course%201%20-%20Information%20Systems%20-%20Definitions%20and%20Concepts.pdf)
+  - [IS Course 2 - Components of Information Systems - Databases, Network](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/courses/IS%20Course%202%20-%20Components%20of%20Information%20Systems%20-%20Databases%2C%20Network%2C%20People.pdf)
+  - [IS Course 3 - Development of Information Systems](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/courses/IS%20Course%203%20-%20Development%20of%20Information%20Systems.pdf)
+  - [IS Course 4 Database Modeling](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/courses/IS%20Course%204%20Database%20Modeling.pdf)
+
+
   ## Tutorials:
   - [Tutorial 1](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%201-%202026-2027.pdf)
+  - [Tutorial 1 - Solutions](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%201-%20Solutions.pdf)
+
   - [Tutorial 2](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%202-%202026-2027.pdf)
+  - [Tutorial 2 - solutions]([https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%202-%202026-2027.pdf](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%202%20Solutions.pdf))
+ 
   - [Tutorial 3](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%203-2026-2027.pdf)
+  - [Tutorial 3 - solutions - part 1](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%203%20Solutions%20-%20part%201.pdf)
+
 
 
