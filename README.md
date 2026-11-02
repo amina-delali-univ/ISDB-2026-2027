@@ -20,10 +20,10 @@
   - The average of two tests (each test will be marked out of 15 points)
   - Attendance Grade (marked out of 5 points)
  ## References
-The two books are:
-
+ 
 - Bourgeois, D.T., Smith, J.L., Wang, S., and Mortati, J., 2019. Information Systems for Business and Beyond. Saylor Academy. https://open.umn.edu/opentextbooks/textbooks/information-systems-for-business-and-beyond
 - Watt, A. and Eng, N., 2014. Database Design - 2nd Edition. BCcampus. https://open.umn.edu/opentextbooks/textbooks/database-design-2nd-edition
+- Microsoft. Transact-SQL statements . Microsoft Learn, 2026. Available from: https://learn.microsoft.com/en-us/sql/t-sql/statements/statements?view=sql-server-ver17.
 
 📝Both reference books can be found by searching this site: https://open.umn.edu/opentextbooks/
 
