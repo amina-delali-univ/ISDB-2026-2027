@@ -45,7 +45,7 @@ The two books are:
   - [Tutorial 1 - Solutions](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%201-%20Solutions.pdf)
 
   - [Tutorial 2](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%202-%202026-2027.pdf)
-  - [Tutorial 2 - solutions]([https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%202-%202026-2027.pdf](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%202%20Solutions.pdf))
+  - [Tutorial 2 - solutions]([https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%202-%202026-2027.pdf](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%202%20Solutions.pdf)
  
   - [Tutorial 3](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%203-2026-2027.pdf)
   - [Tutorial 3 - solutions - part 1](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%203%20Solutions%20-%20part%201.pdf)
