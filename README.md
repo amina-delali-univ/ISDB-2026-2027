@@ -38,6 +38,8 @@
   - [IS Course 2 - Components of Information Systems - Databases, Network](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/courses/IS%20Course%202%20-%20Components%20of%20Information%20Systems%20-%20Databases%2C%20Network%2C%20People.pdf)
   - [IS Course 3 - Development of Information Systems](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/courses/IS%20Course%203%20-%20Development%20of%20Information%20Systems.pdf)
   - [IS Course 4 Database Modeling](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/courses/IS%20Course%204%20Database%20Modeling.pdf)
+  - [IS Course 5 - Entity Association Modeling](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/courses/IS%20Course%205%20-%20Entity%20Association%20Modeling.pdf)
+
 
 
   ## Tutorials:
@@ -48,7 +50,12 @@
   - [Tutorial 2 - solutions](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%202%20Solutions.pdf)
  
   - [Tutorial 3](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%203-2026-2027.pdf)
-  - [Tutorial 3 - solutions - part 1](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%203%20Solutions%20-%20part%201.pdf)
+  - [Tutorial 3 - solutions](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%203%20Solutions.pdf)
+ 
+  - [Tutorial 4](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/tutorials/Tutorial%204%202026-2027.pdf)
 
 
+  ## Tests:
+- [Test 1](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/Tests/test1-ISBD%20-%202026-2027.pdf)
+- [Test 1 Correction](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/Tests/test1-ISBD%20-%202026-2027-solution.pdf)
 
