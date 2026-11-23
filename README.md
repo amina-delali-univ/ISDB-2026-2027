@@ -39,6 +39,7 @@
   - [IS Course 3 - Development of Information Systems](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/courses/IS%20Course%203%20-%20Development%20of%20Information%20Systems.pdf)
   - [IS Course 4 Database Modeling](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/courses/IS%20Course%204%20Database%20Modeling.pdf)
   - [IS Course 5 - Entity Association Modeling](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/courses/IS%20Course%205%20-%20Entity%20Association%20Modeling.pdf)
+  - [IS Course 6 - Database Development and Normalisation](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/courses/ISBD%20course%206%20-%20Database%20Development%20%20processes%2C%20functional%20dependencies%20and%20normalization.pdf)
  
   - [IS Course 7 - SQL Part 1](https://github.com/amina-delali-univ/ISDB-2026-2027/blob/main/courses/SI%20Course%207%20-%20SQL%20Part%201.pdf)
 
